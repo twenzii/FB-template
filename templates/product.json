@@ -17,7 +17,7 @@
           "settings": {
             "filled_star_color": "#000000",
             "empty_star_color": "#cccccc",
-            "reviews_text": "4.7 / 5.0 based on 2126+ Reviews",
+            "reviews_text": "4.7 / 5.0 based on 216+ Reviews",
             "font_size": 12,
             "text_font_size": 14,
             "text_color": "#323232"
@@ -46,7 +46,7 @@
         "custom_features_block_LQwN7B": {
           "type": "custom_features_block",
           "settings": {
-            "benefit1_text": "Benefit 1",
+            "benefit1_text": "521+ People have bought this item",
             "benefit2_text": "Benefit 2",
             "benefit3_text": "Benefit 3"
           }
