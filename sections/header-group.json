@@ -20,10 +20,18 @@
             "text": "Limited Time Offer– Save Up to 80% Before Midnight!",
             "url": ""
           }
+        },
+        "message_KBMHHz": {
+          "type": "message",
+          "settings": {
+            "text": "Free Shipping on All Orders Over £99!",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message_kQentc"
+        "message_kQentc",
+        "message_KBMHHz"
       ],
       "custom_css": [],
       "settings": {
@@ -31,7 +39,7 @@
         "autoplay": true,
         "cycle_speed": 6,
         "text_size": "text-xs",
-        "navigation_mode": "arrows",
+        "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#810f0f",
         "background_gradient": "",
