@@ -22,7 +22,7 @@
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "subheading",
             "title": "heading",
-            "trust_text": "Trusted By 1M+ Women",
+            "trust_text": "Loved by Over 12,500 Women Worldwide",
             "heading_tag": "h2",
             "button_text": "SHOP OUR SALE",
             "button_link": "shopify://collections/featured-collectiom",
@@ -30,7 +30,7 @@
             "button_background": "#af2463",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 50,
             "background": "",
             "background_gradient": ""
           }
